@@ -176,6 +176,8 @@ failure into an explicit error.
 
 ---
 
+### Note: the comparison feature set included pct_drop_1h, which is derived from the target and constitutes leakage. The deployed model excludes it.
+
 ## Author
 
 **Satyaki Ghosh** — M.Tech, Artificial Intelligence & Data Science, KIIT Bhubaneswar
